@@ -1,4 +1,14 @@
-### Hi there 👋
+# Välkommen! 👋
+
+## Om mig
+Mitt namn är **Eddie Liljeberg** och jag studerar Webbutveckling vid Mittuniversitet.
+
+Detta Github-konto kommer att användas till skolarbeten.
+
+## Kontakta mig
+Vid eventuella frågor och funderingar.
+
+**E-post**: edli2200@student.miun.se
 
 <!--
 **edli2200/edli2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
